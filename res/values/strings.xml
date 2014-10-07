@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VS_nethz_BleSensirion</string>
+    <string name="hello_world">Measure for Pleasure</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_not_supported">BLE not found</string>
+    <string name="scanning_started">Scan started</string>
+    <string name="scanning_finished">Scan finished</string>
+	<string name="title_activity_le">Le Device</string>
+	<string name="le_device_info">...</string>
+	<string name="connecting">Connecting</string>
+	<string name="connected">Connected</string>
+	<string name="disconnected">Disconnected</string>
+	<string name="discovering">Discovering</string>
+	<string name="monitor_txt">jköldsaf</string>
+	<string name="hTxt">0.0</string>
+	<string name="tTxt">0.0</string>
+	
+</resources>
